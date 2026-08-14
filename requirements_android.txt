@@ -1,0 +1,5 @@
+kivy>=2.0.0
+numpy
+opencv-python-headless
+pillow
+pyjnius
